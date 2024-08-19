@@ -8,4 +8,4 @@ This is a Python-based banking system that allows users to create accounts, perf
 - **Transaction History**: Retrieve the history of all transactions made on an account.
 
 **Requirements**
-Python 3.x
+- Python 3.x
